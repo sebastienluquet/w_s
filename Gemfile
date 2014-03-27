@@ -34,6 +34,7 @@ end
 
 gem 'rabl'
 gem 'inherited_resources'
+gem 'doorkeeper'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
