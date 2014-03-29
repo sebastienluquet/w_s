@@ -34,6 +34,8 @@ end
 
 gem 'rabl'
 gem 'inherited_resources'
+gem 'has_scope'
+gem 'carrierwave'
 gem 'doorkeeper'
 
 # Use ActiveModel has_secure_password
