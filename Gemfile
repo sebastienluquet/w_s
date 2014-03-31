@@ -36,7 +36,9 @@ gem 'rabl'
 gem 'inherited_resources'
 gem 'has_scope'
 gem 'carrierwave'
+
 gem 'doorkeeper'
+gem 'devise'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
@@ -49,3 +51,4 @@ gem 'doorkeeper'
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+gem 'pry-byebug'
